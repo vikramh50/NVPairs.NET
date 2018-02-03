@@ -1,2 +1,2 @@
-# NVPairs.NET
-C# version of NVPairs
+# NVpairs.NET
+C# version of NVpairs
